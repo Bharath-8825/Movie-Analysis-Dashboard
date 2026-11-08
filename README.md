@@ -1,7 +1,7 @@
 # 🎬 Movie Data Analytics Dashboard
 
 An interactive Excel dashboard built to analyze a dataset of 1,000 movies, uncovering trends in revenue, profitability, genre performance, and audience ratings.
-
+![Dashboard Preview](Screenshot%202026-11-08%20205048.png)
 ## 📊 Overview
 
 The dashboard summarizes key metrics at a glance:
